@@ -2,7 +2,7 @@
 ## Frequency-Aware Incongruent Network via Muti-teacher Knowledge Distillation for No-Service Rail Surface Defect Detection
 
 ## The model structure is as follows：
-
+![Model3](https://github.com/Yuride0404127/FAINet/blob/main/Picture/FAINet.png)
 
 ## Requirements
 Python >=3.6
